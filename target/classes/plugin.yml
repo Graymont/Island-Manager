@@ -1,0 +1,4 @@
+name: IslandManager
+version: '1.0-IslandManager'
+main: org.islandmanager.islandManager.IslandManager
+api-version: '1.21'
